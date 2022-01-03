@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/jihaneH/card-component)
-- Live Site URL: [Add live site URL here](jihaneh.github.io/card-component/)
+- Live Site URL: [Add live site URL here](https://jihaneh.github.io/card-component/)
 
 ## My process
 
